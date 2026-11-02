@@ -1,0 +1,19 @@
+HTML --> hyper text markup language.
+            - hyper text -- LINK
+
+Who created html?
+- Tim berner's lee
+
+html 1 --> 1991
+html 2 --> 1995
+html 3 --> (jan , 1997)
+html 4 --> (dec , 1997) - 4.2 --> 2000
+html 5 --> 2014 - 5.2 --> 2017
+
+html introduced : 1993 --> first --> first website : --> https://info.cern.ch
+
+html extension?
+- .html \ .htm 
+
+what is the use html?
+- To create a static structure of website or webpages.
