@@ -1,0 +1,16 @@
+CSS --> Cascading style sheet 
+
+who devloped CSS?
+- Hakon wium lie --> 1996
+
+Create a attractive page 
+
+
+where css run?
+- Browser through HTML
+
+
+There are three ways to define css?
+- External css [.css]
+- internal css - same page - <style></style>
+- inline css - same line
